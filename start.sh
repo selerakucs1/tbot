@@ -16,10 +16,10 @@ miner=40                                             #jumlah Miner kalian  #
 g='\e[1;32m'
 r="tput sgr0"
 
-echo -e "${g} _                                              "; $r
-echo -e "${g}|_)  _.        ._ _  o ._   _  ._    |_   _ _|_ "; $r
-echo -e "${g}|_) (_| \/ |_| | | | | | | (/_ |  __ |_) (_) |_ "; $r
-echo -e "${g}        /                                       "; $r
+echo -e "${g} _                                                 "; $r
+echo -e "${g}|_   _. |_  o  _  ._ _  o ._   _  ._    |_   _ _|_ "; $r
+echo -e "${g}|   (_| |_) | (_) | | | | | | (/_ |  __ |_) (_) |_ "; $r
+echo -e "${g}                                                   "; $r
 
 MSG_FILE="fabioX.msg"
 JSON_FILE="fabioX.json"
