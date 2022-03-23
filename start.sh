@@ -87,7 +87,7 @@ else
 #==================PRINT==================================#
 
 echo -e "${g}Sending report.."; $r
-echo -e "Wallet Monitoring~ \nCurrency\t: $coin" > $MSG_FILE
+echo -e "Zergpool Monitor\nFabio Karnovaro\nCurrency\t: $coin" > $MSG_FILE
 echo -e "Date : " $DATE"\n" >> $MSG_FILE
 echo -e "${g}Generate report.."; $r
 echo -e "Immature\t: "$unsold $coin >> $MSG_FILE
