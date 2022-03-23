@@ -6,8 +6,8 @@
            # G A N T I - D E N G A N - M I L I K - K A L I A N #           #
 coin=DOGE                                            #Coin                 #
 Wallet=DAcHVKArVjpqvtb2fysrFyxShsdnZ39Mmj            #walletaddress        #
-TOKEN= #ChannelToken         #
-CHAT_ID=()                                 #ID UserTelegram      #
+TOKEN=1038205529:AAFiicRTKYbwRDzmsjlI5usaKVk5-alS8dA #ChannelToken         #
+CHAT_ID=(221776712)                                  #ID UserTelegram      #
 miner=40                                             #jumlah Miner kalian  #
 #==========================================================================#
 
