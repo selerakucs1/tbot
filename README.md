@@ -5,4 +5,4 @@
 - chmod +x start.sh
 - ./start.sh
 # optional one hour
-- sudo crontab -e */60 * * * * bash /root/start.sh > /root/start.log 2>&1
+- sudo crontab -e */60 * * * * bash/root/start.sh > /root/start.log 2>&1
